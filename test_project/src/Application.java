@@ -21,5 +21,12 @@ public class Application {
             System.out.println("Result: " + (a / b));
         else
             System.out.println("Invalid operation.");
+
+
+
+
+
+
+        
     }
 }
